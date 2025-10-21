@@ -1,4 +1,4 @@
-## 🧮 Simple Calculator (Python)
+##  Simple Calculator (Python)
 
 A basic **Python calculator** that performs simple arithmetic operations like addition, subtraction, multiplication, and division.  
 This project helps beginners understand **loops**, **user input**, and **expression evaluation** in Python.
